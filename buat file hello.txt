@@ -1,0 +1,3 @@
+* Sampai sini Anda telah berhasil membuat branch baru.
+* Latihan selanjutnya akan mengajarkan Anda bagaimana berpindah dari branch satu ke branch lainnya. 
+* Selamat belajar!
